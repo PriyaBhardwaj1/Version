@@ -1,0 +1,9 @@
+{
+  "template": "angular",  
+  "sections": {
+    "feat": {"name": "Added"},
+    "fix": {"name": "Fixed"},
+    "docs": {"name": "Documentation"},
+    "refactor": {"name": "Refactor"}
+  }
+}
