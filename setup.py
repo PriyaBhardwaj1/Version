@@ -11,7 +11,7 @@ with open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='bump2version',
-    version='9.1.0',
+    version='10.0.0',
     url='https://github.com/PriyaBhardwaj1/Version.git',
     author='Priya Bhardwaj',
     author_email='priya.bhardwaj@appvintech.com',
