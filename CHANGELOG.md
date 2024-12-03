@@ -1,1 +1,1 @@
-# Changelog
+# Changelog\n\n## 6.0.0 - YYYY-MM-DD\n- Previous version: 5.0.0\n- Summary of changes (add details here)\n
