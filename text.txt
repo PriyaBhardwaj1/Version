@@ -8,5 +8,3 @@ incoming responses other than from latest request.
 
 Remove timeouts which were used to mitigate the racing issue but are
 obsolete now.
-
-Reviewed-by: Z
