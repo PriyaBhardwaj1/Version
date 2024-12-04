@@ -1,3 +1,3 @@
-# Changelog  10.0.0      Previous version: 9.0.0
+# Changelog  11.0.0      Previous version: 10.0.0  10.0.0      Previous version: 9.0.0
 **v11.0.0**
 **v10.0.0**  9.1.0      Previous version: 9.0.0  9.0.0      Previous version: 8.0.0\n\n## 8.0.0 - YYYY-MM-DD\n- Previous version: 7.0.0\n- Summary of changes (add details here)\n\n\n## 7.0.0 - YYYY-MM-DD\n- Previous version: 6.0.0\n- Summary of changes (add details here)\n\n\n## 6.0.0 - YYYY-MM-DD\n- Previous version: 5.0.0\n- Summary of changes (add details here)\n
