@@ -1,3 +1,12 @@
 This is intial test for release .
 this is second release.
 "Added new feature for user authentication
+fix: prevent racing of requests
+
+Introduce a request id and a reference to latest request. Dismiss
+incoming responses other than from latest request.
+
+Remove timeouts which were used to mitigate the racing issue but are
+obsolete now.
+
+Reviewed-by: Z
